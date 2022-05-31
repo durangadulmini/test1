@@ -1,0 +1,39 @@
+cd path
+git clone http...
+
+cd reponame
+git add filename
+git add .
+git commit -m "type the msg"
+git push
+git
+
+
+
+1st
+fig = plt.figure()
+ax=fig.add_axes([0,0,2,2])
+2nd
+axins=insert_(ax,width=40%,height=40%,loc=2,borderpad=5)
+3rd
+ax.plot(daily_data.reset_index()['data'],daily_data['total_cases
+
+main=[]
+main +=ax.plot(daily_data.reset_index()['data'],daily_data['total_cases'],
+main +=ax.plot(daily_data.reset_index()['data'],daily_data['total_deaths'],linrstyle='-.',
+axins.scatter(country_data['total_cases'],counrty_data['total_tests'],
+c=country_data['life_expentancy'],s=country_data[population']/100000 , alpha=0.4,cmap="Blues")
+
+ae.plot(daily_data['
+ax.legend 
+
+
+axins.set_xlabel('Total Cases')
+axins.set_ylabel('Total Tests')
+axins.set_title('Tests V. detections')
+
+
+
+rpl answer 6th question
+pivotPDF.reset_index().melt(id_vars='Experince_level').drop('variable_0',axies=1)
+
